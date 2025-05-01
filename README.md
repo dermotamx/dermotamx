@@ -13,8 +13,7 @@ Hi, I'm **Axia**, an audio developer learning **JS** and **HTML/CSS**. I create 
 
 ## 💡 Projects
 
-- [**Urban Mix**](https://discord.gg/sCYwDBDJBH) - The official radio of FlashbackFA.
-- [**Traitement AMX**](https://github.com/axiaiq/traitementamx) - The best Omnia 9 processing for radio.
+- [**Urban Mix**](https://discord.gg/Zc7sErVSph) - The official radio of FlashbackFA.
 - [**Discord Community**](https://discord.gg/kMHUFfV47v) - Join for discussions !
 
 ---
