@@ -1,19 +1,21 @@
 # 👋 Welcome to My GitHub Profile!
 
-
+---
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 
 Hi, I'm **Axia**, an audio developer learning **JS** and **HTML/CSS**. I create automation tools for web radios/radios, as well as API systems connected to radio software or simpler tools to help manage their radio operations internally.
 
 ---
+## 📬 How to Contact Me
+
+- 📧 Email: [tim@urbanmixradio.com](mailto:tim@urbanmixradio.com)
 
 ## 💡 Projects
 
 - [**Urban Mix**](https://discord.gg/sCYwDBDJBH) - The official radio of FlashbackFA.
 - [**Traitement AMX**](https://github.com/axiaiq/traitementamx) - The best Omnia 9 processing for radio.
 - [**Discord Community**](https://discord.gg/kMHUFfV47v) - Join for discussions !
-
 
 ---
 
@@ -52,16 +54,11 @@ Hi, I'm **Axia**, an audio developer learning **JS** and **HTML/CSS**. I create 
 
 ---
 
-
-
-
 ## 🎉 Fun Facts
 
 - I enjoy video games and ui,ux & gfx.
 - I am a voice-over / audio editor.
 
-
-
-
 ---
+
 Thank you for visiting my profile !
