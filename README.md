@@ -14,7 +14,7 @@ Hi, I'm **Axia**, an audio developer learning **JS** and **HTML/CSS**. I create 
 ## 💡 Projects
 
 - [**Urban Mix**](https://discord.gg/Zc7sErVSph) - The official radio of FlashbackFA.
-- [**Discord Community**](https://discord.gg/kMHUFfV47v) - Join for discussions !
+- [**Discord Community**](https://discord.gg/z4phSkEzTf) - Join for discussions !
 
 ---
 
