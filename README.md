@@ -4,7 +4,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 
-Hi, I'm **Axia**, an audio developer learning **JS** and **HTML/CSS**. I create automation tools for web radios/radios, as well as API systems connected to radio software or simpler tools to help manage their radio operations internally.
+Hi, I'm **Dermot**, an audio developer learning **JS** and **HTML/CSS**. I create automation tools for web radios/radios, as well as API systems connected to radio software or simpler tools to help manage their radio operations internally.
 
 ---
 ## 📬 How to Contact Me
