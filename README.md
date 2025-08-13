@@ -13,7 +13,7 @@ Hi, I'm **Dermot**, an audio developer learning **JS** and **HTML/CSS**. I creat
 
 ## 💡 Projects
 
-- [**Urban Mix**](https://discord.gg/Zc7sErVSph) - The official radio of FlashbackFA.
+- [**Urban Mix**](https://urbanmixradio.com) - The official radio of FlashbackFA.
 - [**Discord Community**](https://discord.gg/z4phSkEzTf) - Join for discussions !
 
 ---
