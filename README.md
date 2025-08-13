@@ -9,7 +9,7 @@ Hi, I'm **Dermot**, an audio developer learning **JS** and **HTML/CSS**. I creat
 ---
 ## 📬 How to Contact Me
 
-- 📧 Email: [tim@urbanmixradio.com](mailto:tim@urbanmixradio.com)
+- 📧 Email: [contact@dermot.fr ](mailto:contact@dermot.fr)
 
 ## 💡 Projects
 
