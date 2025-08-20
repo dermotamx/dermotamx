@@ -26,7 +26,7 @@ Hi, I'm **Dermot**, an audio developer learning **JS** and **HTML/CSS**. I creat
 
 
 
-## 📚 Info
+# 📚 Info
 - 🔭 Currently learning .lua for fivem.
 - 🌱 Learning more about game development.
 
