@@ -1,31 +1,32 @@
 # 👋 Welcome to My GitHub Profile!
 
----
+
 
 ![status](https://img.shields.io/badge/status-up-brightgreen)
 
 Hi, I'm **Dermot**, an audio developer learning **JS** and **HTML/CSS**. I create automation tools for web radios/radios, as well as API systems connected to radio software or simpler tools to help manage their radio operations internally.
 
----
+<a href="https://discord.com/users/1346609447136399472"><img src="https://lanyard.cnrad.dev/api/1346609447136399472?theme=dark" /></a>
+
+
 ## 📬 How to Contact Me
 
 - 📧 Email: [contact@dermot.fr ](mailto:contact@dermot.fr)
 
-## 💡 Projects
+# 💡 Projects
 
 - [**Urban Mix**](https://urbanmixradio.com) - The official radio of FlashbackFA.
 - [**Discord Community**](https://discord.gg/z4phSkEzTf) - Join for discussions !
 
----
 
-## 🎯 Goals
+
+# 🎯 Goals
 
 - Expand my knowledge of programming languages and technologies.
 
----
+
 
 ## 📚 Info
-
 - 🔭 Currently learning .lua for fivem.
 - 🌱 Learning more about game development.
 
@@ -43,7 +44,7 @@ Hi, I'm **Dermot**, an audio developer learning **JS** and **HTML/CSS**. I creat
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,ps,ae,au,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,ps,ae,au,discordjs,cloudflare,docker,github,ai,vercel)](https://skillicons.dev)
 
 ---
 
