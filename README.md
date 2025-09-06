@@ -17,7 +17,7 @@ Hi, I'm **Dermot**, an audio developer learning **JS** and **HTML/CSS**. I creat
 
 - [**Urban Mix**](https://urbanmixradio.com) - The official radio of FlashbackFA.
 - [**Discord Community**](https://discord.gg/z4phSkEzTf) - Join for discussions !
-- - [**HeatMusic**](https://github.com/dermotamx/Heatmusic) - A preset for Omnia 9ptn
+- [**HeatMusic**](https://github.com/dermotamx/Heatmusic) - A preset for Omnia 9ptn
 
 
 
